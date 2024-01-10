@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "socket.server": {
+        "ip": "localhost",
+        "port": 4000
+    }
+}
